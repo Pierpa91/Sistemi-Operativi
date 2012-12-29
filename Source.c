@@ -41,7 +41,7 @@ int main ()                                                                     
         if (vett_sud !=0)
         {
             vett_sud++;
-            wait (coda);
+            wait (coda);        
         }
     }
     
